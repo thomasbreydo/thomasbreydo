@@ -8,7 +8,7 @@ I'm fascinated by artificial intelligence.
 
 - [movie-recommender-2](https://github.com/thomasbreydo/movie-recommender-2) is a collaborative-filtering-based movie recommender I designed using `scikit-surprise`.
 
-- [neural-network]()
+- [neural-network](https://github.com/thomasbreydo/neural-network) is a neural network designed from scratch in Python (no tensorflow, pytorch, etc.). *In progress*.
 
   - [perceptron](https://github.com/thomasbreydo/perceptron) is a mini-project in which I create a perceptron from scratch in C++.
 
