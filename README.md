@@ -14,10 +14,10 @@ I'm fascinated by artificial intelligence.
 
 ### Python packages 🐍
 
-I've published several packages on [PyPI](https://pypi.org/user/tbreydo/):
+I've published several packages on [PyPI](https://pypi.org/user/tbreydo/). Some of my favorites are:
 
-- I designed [pynetworks](https://github.com/thomasbreydo/pynetworks) to provide structure for networks of interconnected nodes in Python.
+- [pynetworks](https://github.com/thomasbreydo/pynetworks), to provide structure for networks of interconnected nodes in Python.
 
-- I made [movieposters](https://github.com/thomasbreydo/movieposters) to get the link a movie's poster given its title.
+- [movieposters](https://github.com/thomasbreydo/movieposters), to get the link to a movie's poster given its title.
 
-- I created [pymastermind](https://github.com/thomasbreydo/pymastermind) to make it easy to emulate the MasterMind game in Python.
+<!-- - [pymastermind](https://github.com/thomasbreydo/pymastermind), to make it easy to emulate the MasterMind game in Python. -->
