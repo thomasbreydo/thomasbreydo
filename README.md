@@ -18,6 +18,8 @@ I've published several packages on [PyPI](https://pypi.org/user/tbreydo/). Some 
 
 - [pynetworks](https://github.com/thomasbreydo/pynetworks), to provide structure for networks of interconnected nodes in Python.
 
-- [movieposters](https://github.com/thomasbreydo/movieposters), to get the link to a movie's poster given its title.
+- [pcfg](https://github.com/thomasbreydo/pcfg), to generate sentences from a probabilistic context-free grammar ([Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)).
+
+<!-- - [movieposters](https://github.com/thomasbreydo/movieposters), to get the link to a movie's poster given its title. -->
 
 <!-- - [pymastermind](https://github.com/thomasbreydo/pymastermind), to make it easy to emulate the MasterMind game in Python. -->
