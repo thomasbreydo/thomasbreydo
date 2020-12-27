@@ -10,7 +10,7 @@ I'm fascinated by artificial intelligence.
 
 - [enzo](https://github.com/thomasbreydo/enzo) is a neural network library I made from scratch in Python (no tensorflow, pytorch, etc.). *In progress*.
 
-  - [perceptron](https://github.com/thomasbreydo/perceptron) is a mini-project in which I created a perceptron from scratch in C++.
+  - [perceptron-cpp](https://github.com/thomasbreydo/perceptron-cpp) is a mini-project in which I created a perceptron from scratch in C++.
 
 ### Python packages 🐍
 
