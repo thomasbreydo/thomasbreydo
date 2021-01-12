@@ -1,16 +1,18 @@
 ### Hi there 👋 
 
-I'm an avid programmer interested in data science, math, and biology.
+I'm an avid programmer interested in math, data science, and technology.
 
 ### Data science 🧪
 
 I'm fascinated by artificial intelligence.
 
-- [movie-recommender-2](https://github.com/thomasbreydo/movie-recommender-2) is a collaborative-filtering-based movie recommender I designed using `scikit-surprise`.
-
 - [enzo](https://github.com/thomasbreydo/enzo) is a neural network library I made from scratch in Python (no tensorflow, pytorch, etc.). *In progress*.
 
+  - [perceptron-rs](https://github.com/thomasbreydo/perceptron-rs) is a perceptron library in Rust with bindings to Python (so Python code can benefit from Rust's speed).
+
   - [perceptron-cpp](https://github.com/thomasbreydo/perceptron-cpp) is a mini-project in which I created a perceptron from scratch in C++.
+  
+- [movie-recommender-2](https://github.com/thomasbreydo/movie-recommender-2) is a collaborative-filtering-based movie recommender I designed using `scikit-surprise`.
 
 ### Python packages 🐍
 
