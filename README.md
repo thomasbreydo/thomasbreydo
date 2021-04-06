@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm an avid programmer interested in math, data science, and technology.
+I'm an avid programmer and CS enthusiast interested in math and technology.
 
 ### Data science 🧪
 
