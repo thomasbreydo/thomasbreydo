@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm an avid programmer and CS enthusiast interested in math and technology. Check out [my website](https://thomasbreydo.com/).
+I'm an NYC-based developer, student, and CS enthusiast interested in math and tech. Check out [my website](https://thomasbreydo.com/).
 
 ### Data science 🧪
 
