@@ -1,26 +1,26 @@
-### Hi there 👋 
+## Hi there,
 
 I'm an NYC-based developer, student, and CS enthusiast interested in math and tech. Check out [my website](https://thomasbreydo.com/).
 
-### Data science 🧪
+## I implement things from scratch to learn how they work, for example:
 
-I'm fascinated by artificial intelligence.
+- A perceptron in C++ (see my [repo](https://github.com/thomasbreydo/perceptron-cpp))
 
-- [enzo](https://github.com/thomasbreydo/enzo) is a neural network library I made from scratch in Python (no tensorflow, pytorch, etc.). *In progress*.
+- A data structures library from scratch in Java (see my [repo](https://github.com/thomasbreydo/java-data-structures))
 
-  - [perceptron-rs](https://github.com/thomasbreydo/perceptron-rs) is a perceptron library in Rust with bindings to Python (so Python code can benefit from Rust's speed).
+- A binary classifier library in Rust w/ bindings to Python (see my [repo](https://github.com/thomasbreydo/perceptron-rs))
 
-  - [perceptron-cpp](https://github.com/thomasbreydo/perceptron-cpp) is a mini-project in which I created a perceptron from scratch in C++.
-  
-- [movie-recommender-2](https://github.com/thomasbreydo/movie-recommender-2) is a collaborative-filtering-based movie recommender I designed using `scikit-surprise`.
+<!-- - [enzo](https://github.com/thomasbreydo/enzo): neural network library I made from scratch in Python (no tensorflow, pytorch, etc.). *In progress*. -->
 
-### Python packages 🐍
+## I've published several Python packages on PyPI, including:
 
-I've published several packages on [PyPI](https://pypi.org/user/tbreydo/). Some of my favorites are:
+- A package that provides structure for networks of interconnected nodes (see my [repo](https://github.com/thomasbreydo/pynetworks))
 
-- [pynetworks](https://github.com/thomasbreydo/pynetworks), to provide structure for networks of interconnected nodes in Python.
+- A package that generates sentences from probabilistic context-free grammars (see my [repo](https://github.com/thomasbreydo/pcfg))
 
-- [pcfg](https://github.com/thomasbreydo/pcfg), to generate sentences from a probabilistic context-free grammar ([Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)).
+  - Read more about about these grammars on [Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar)
+
+- See the rest at [pypi.org/user/tbreydo](https://pypi.org/user/tbreydo/)
 
 <!-- - [movieposters](https://github.com/thomasbreydo/movieposters), to get the link to a movie's poster given its title. -->
 
