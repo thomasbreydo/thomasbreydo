@@ -6,7 +6,7 @@ I'm an NYC-based developer, student, and CS enthusiast interested in math and te
 
 - A perceptron in C++ (see my [repo](https://github.com/thomasbreydo/perceptron-cpp))
 
-- A data structures library from scratch in Java (see my [repo](https://github.com/thomasbreydo/java-data-structures))
+- A data structures library in Java—`LinkedList`, `Map`, etc. (see my [repo](https://github.com/thomasbreydo/java-data-structures))
 
 - A binary classifier library in Rust w/ bindings to Python (see my [repo](https://github.com/thomasbreydo/perceptron-rs))
 
