@@ -1,6 +1,6 @@
 ## Hi there,
 
-I'm an NYC-based developer, student, and CS enthusiast interested in math and tech. Check out [my website](https://thomasbreydo.com/).
+I'm a software engineer and CS student at Stanford. Check out [my website](https://thomasbreydo.com/).
 
 ## I implement things from scratch to learn how they work, for example:
 
